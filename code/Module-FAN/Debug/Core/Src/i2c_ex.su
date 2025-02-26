@@ -1,0 +1,9 @@
+../Core/Src/i2c_ex.c:22:6:set_i2c_slave_address	0	static
+../Core/Src/i2c_ex.c:27:13:Slave_Complete_Callback	0	static
+../Core/Src/i2c_ex.c:33:6:i2c1_it_enable	0	static
+../Core/Src/i2c_ex.c:51:6:i2c1_it_disable	0	static
+../Core/Src/i2c_ex.c:61:6:Error_Callback	0	static
+../Core/Src/i2c_ex.c:67:6:i2c1_set_send_data	8	static
+../Core/Src/i2c_ex.c:80:6:Slave_Reception_Callback	0	static
+../Core/Src/i2c_ex.c:87:6:Slave_Ready_To_Transmit_Callback	0	static
+../Core/Src/i2c_ex.c:97:6:I2C1_IRQHandler	16	static

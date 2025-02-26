@@ -1,0 +1,11 @@
+../Drivers/CMSIS/Include/core_cm0.h:856:34:__NVIC_SystemReset	0	static,ignoring_inline_asm
+../Core/Src/main.c:93:6:iap_set	8	static
+../Core/Src/main.c:106:6:reg_init	8	static
+../Core/Src/main.c:143:6:fan_status_update	0	static
+../Core/Src/main.c:153:6:pwm_frequency_update	8	static
+../Core/Src/main.c:161:6:Slave_Complete_Callback	16	static
+../Core/Src/main.c:246:6:HAL_TIM_IC_CaptureCallback	8	static
+../Core/Src/main.c:268:6:capture	16	static
+../Core/Src/main.c:430:6:Error_Handler	0	static,ignoring_inline_asm
+../Core/Src/main.c:383:6:SystemClock_Config	8	static
+../Core/Src/main.c:308:5:main	8	static
