@@ -1,2 +1,0 @@
-../Core/Src/i2c.c:28:6:MX_I2C1_Init	1
-../Core/Src/i2c.c:95:6:user_i2c_init	1
